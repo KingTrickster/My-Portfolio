@@ -6,8 +6,8 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg mb-4 pb-2 pt-3">
       <div className="container-fluid">
-        <Link to="/" className="fs-3 fredoka text-secondary navbar-brand">
-          Rick & Morty <span className="text-info">Wiki</span>
+        <Link to="/" className="fs-3 fredoka text-light navbar-brand">
+          Alejandro's <span className="text-info">Portfolio</span>
         </Link>
         <button
           className="navbar-toggler"
